@@ -1,4 +1,3 @@
-# [Seu Nome]
 
 Olá! 👋 Me chamo Gustavo Fernandez Pascoaleto estudante do sétimo período em Ciências da Computão.
 
