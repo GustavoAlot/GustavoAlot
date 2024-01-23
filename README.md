@@ -31,12 +31,8 @@ Olá! 👋 Me chamo Gustavo Fernandez Pascoaleto estudante do sétimo período e
 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para trocar ideias! 
-<p>
- </br>
-<a href="mailto:gusalot22@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
- </p>
+
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusalot22@gmail.com)
 
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5567998158212)
 
