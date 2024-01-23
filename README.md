@@ -17,6 +17,10 @@ Olá! 👋 Me chamo Gustavo Fernandez Pascoaleto, sou estudante do sétimo perí
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlot&layout=compact)
+
+
 ### - Estudando no momento :
 - ✨ Banco de dados
 - ✨ JavaScript
@@ -29,7 +33,7 @@ Olá! 👋 Me chamo Gustavo Fernandez Pascoaleto, sou estudante do sétimo perí
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlot&layout=compact)
+
 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para trocar ideias! 
