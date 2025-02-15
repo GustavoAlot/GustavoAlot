@@ -2,7 +2,7 @@
 Olá! 👋 Me chamo Gustavo Fernandez Pascoaleto, sou estudante do sétimo período em Ciências da Computação.
 
 
-Meu portifolio : 
+Meu portifolio : https://gustavoalot.github.io/sitepessoal/
 ### Sobre Mim
 
 - 🌍 Localização: Alfenas,MG
