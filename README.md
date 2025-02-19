@@ -25,7 +25,6 @@ Me chamo **Gustavo Fernandez Pascoaleto** e sou estudante do **7º período de C
 ### 🚀 Estudando Atualmente
 - 🤖 **Inteligência Artificial**  
 - 🎨 **Three.js (WebGL e gráficos 3D)**  
-- 🗄️ **Banco de Dados**  
 
 ---
 
