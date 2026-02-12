@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo **Gustavo Fernandez Pascoaleto**, sou formado em  **Ciências da Computação** na **Universidade Federal de Alfenas**.
+Me chamo **Gustavo Fernandez Pascoaleto**, sou formado em  **Ciências da Computação** pela **Universidade Federal de Alfenas** atuando como **Full-Stack Developer**.
 
 ### 🌐 Portfólio
 [**Clique aqui**](https://gustavoalot.github.io/sitepessoal/) para conferir meu portfólio online.
