@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo **Gustavo Fernandez Pascoaleto**, sou formado em  **Ciências da Computação** na **UNIFAL (Universidade Federal de Alfenas)**, em **Alfenas, MG**.
+Me chamo **Gustavo Fernandez Pascoaleto**, sou formado em  **Ciências da Computação** na **Universidade Federal de Alfenas**.
 
 ### 🌐 Portfólio
 [**Clique aqui**](https://gustavoalot.github.io/sitepessoal/) para conferir meu portfólio online.
